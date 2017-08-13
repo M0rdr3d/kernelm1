@@ -1,0 +1,5 @@
+.idea/
+.sbtserver/
+target/
+/bin/
+.DS_Store
